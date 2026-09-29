@@ -1,0 +1,15 @@
+Africa Live Entertainment landing page: image credits (not shown on the page)
+
+Background photo: "Stage light front of audience"
+  Files:        assets/crowd.webp (2000x1333, ~73 KB), assets/crowd.jpg (fallback, 2000x1333, ~184 KB)
+  Photo page:   https://unsplash.com/photos/stage-light-front-of-audience-NYrVisodQ2M
+  Photographer: Yvette de Wit (https://unsplash.com/@yvettedewit)
+  Taken:        Melt Festival, Gräfenhainichen, Germany; published on Unsplash on 3 Aug 2016
+  Source file:  https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3 (downloaded at 2400px wide, resized and re-encoded)
+  License:      Unsplash License (https://unsplash.com/license). Free for commercial and non-commercial use, no permission needed, and attribution is not required.
+                Restrictions: you may not sell unaltered copies, and you may not compile photos from Unsplash to replicate a similar or competing service.
+  Content:      Crowd seen from behind, silhouetted against stage lights and haze. There are no identifiable faces and no visible brand or artist names.
+  Retrieved:    29 Sep 2026
+
+Logo and favicons: Africa Live Entertainment's own assets, taken from africaliveentertainment.com.
+Fonts: Anton and Inter Tight via Google Fonts (SIL Open Font License).
