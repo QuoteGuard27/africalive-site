@@ -13,3 +13,5 @@ Background photo: "Stage light front of audience"
 
 Logo and favicons: Africa Live Entertainment's own assets, taken from africaliveentertainment.com.
 Fonts: Anton and Inter Tight via Google Fonts (SIL Open Font License).
+
+Share image: assets/og-image.jpg (1200x630), made for this site from the background photo above plus the site's fonts and colours.
